@@ -2,7 +2,7 @@
 ### I'm a beginner programmer, I'm 19 years old.
 
 ### Languages and Tools:
-![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python) ![Static Badge](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql) ![Static Badge](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=css3) ![Static Badge](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)
+![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python) ![Static Badge](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql) ![Static Badge](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=css3) ![Static Badge](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5) ![Static Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git) ![Static Badge](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)
 
 
 ### Socials:
